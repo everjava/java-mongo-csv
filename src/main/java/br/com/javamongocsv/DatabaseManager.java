@@ -13,7 +13,7 @@ import org.bson.Document;
 
 /**
  * Classe reponsavel por gerenciar o acesso ao banco de dados mongodb.
- * @author Ricardo Limonta
+ *  
  */
  
 public class DatabaseManager implements Serializable {
